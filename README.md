@@ -14,5 +14,3 @@
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
 </div>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&locale=en" alt="yourgithubusername" /></p>
