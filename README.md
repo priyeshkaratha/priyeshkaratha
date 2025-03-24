@@ -1,8 +1,8 @@
 <h2 align="center">Hi there 👋, Welcome to my Github page!</h2>
 <ul>
-  <li>I'm Priyesh Karatha, a Java Technical Lead.</li>
-  <li>Currently working at Mobileum India Pvt. Ltd.</li>
-  <li>Over 10 years of experience in telecom, specializing in Java, microservices, Kubernetes, and ETL processes.</li>
+  <li>I'm Priyesh Karatha, a Staff Software Engineer.</li>
+  <li>Currently working at Cloudera.</li>
+  <li>Over 11 years of experience in Telecom, specializing in Java, microservices, Kubernetes, and ETL processes.</li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
