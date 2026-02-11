@@ -2,7 +2,7 @@
 <ul>
   <li>I'm Priyesh Karatha, a Staff Software Engineer.</li>
   <li>Currently working at Cloudera.</li>
-  <li>Over 11 years of experience in Telecom, specializing in Java, microservices, Kubernetes, and ETL processes.</li>
+  <li>Over 12 years of experience in Telecom, specializing in Java, microservices, Kubernetes, and ETL processes.</li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
